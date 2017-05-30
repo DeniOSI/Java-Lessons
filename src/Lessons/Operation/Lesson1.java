@@ -1,9 +1,7 @@
 package Lessons.Operation;
 
-/**
- * Created by Администратор on 25.05.2017.
- */
-class Lesson2 {
+
+class Lesson1 {
     public static void main(String[] args)
     {
         //region  Арифметические операции
@@ -102,7 +100,7 @@ class Lesson2 {
         //region комбинированные операторы
         int a , b, c;
         a = 10;
-        b = 20;
+
         c = 30;
 
         c += a;
